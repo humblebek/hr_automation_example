@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'welcome' => "👋 *Dinay HR botiga xush kelibsiz!*\nTilni tanlang:",
+    'welcome' => "👋 *HrAuto botiga xush kelibsiz!*\nTilni tanlang:",
     'welcome_back' => "👋 *Qaytib kelganingizdan xursandmiz!*\n\nSiz allaqachon ro'yxatdan o'tgansiz. Vakansiyalarga ariza topshirish uchun 🏢 Bo'limlar tugmasini bosing.",
     'choose_lang' => "Tilni tanlang:",
     'invalid_lang' => "❗ Iltimos, quyidagi tillardan birini tanlang.",
@@ -21,7 +21,7 @@ return [
     'btn_back' => "⬅️ Ortga",
     'depart_choose' => "🏢 Bo'limni tanlang:",
     'depart_none' => "😕 Hozircha faol bo'limlar mavjud emas.",
-    'about_text' => "Dinay HR — ishga qabul jarayonini soddalashtiruvchi bot.",
+    'about_text' => "HrAuto — ishga qabul jarayonini soddalashtiruvchi bot.",
     'mydata_none' => "Ma'lumot topilmadi. Avval ro'yxatdan o'ting: /start",
     'ask_image' => "📸 Rasmingizni kiriting — yuzingiz tiniq tushgan, yelkadan tepasi ko'rinadigan bo'lsin.",
     'btn_share_phone' => '📞 Raqamni ulashish',

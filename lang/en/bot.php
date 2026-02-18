@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'welcome' => "👋 *Welcome to Dinay HR!*\nChoose your language:",
+    'welcome' => "👋 *Welcome to HrAuto!*\nChoose your language:",
     'welcome_back' => "👋 *Welcome back!*\n\nYou are already registered. To apply for a vacancy, press the 🏢 Departments button.",
     'choose_lang' => "Choose a language:",
     'invalid_lang' => "❗ Please pick one of the listed languages.",
@@ -21,7 +21,7 @@ return [
     'btn_back' => "⬅️ Back",
     'depart_choose' => "🏢 Choose a department:",
     'depart_none' => "😕 No active departments yet.",
-    'about_text' => "Dinay HR — a bot that simplifies hiring.",
+    'about_text' => "HrAuto — a bot that simplifies hiring.",
     'mydata_none' => "No data found. Please register first: /start",
     'mydata_title' => "👤 Your data:",
     'ask_image' => "📸 Upload your photo — your face should be clearly visible, from shoulders and above.",

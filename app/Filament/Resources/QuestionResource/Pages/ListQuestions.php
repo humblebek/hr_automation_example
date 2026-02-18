@@ -1,0 +1,25 @@
+<?php
+
+namespace App\Filament\Resources\QuestionResource\Pages;
+
+use App\Filament\Resources\QuestionResource;
+use Filament\Actions;
+use Filament\Resources\Pages\ListRecords;
+
+class ListQuestions extends ListRecords
+{
+    protected static string $resource = QuestionResource::class;
+
+    protected function getHeaderActions(): array
+    {
+        return [
+            Actions\CreateAction::make()
+                ->label("Yangi savol qo'shish "),
+        ];
+    }
+
+    public function getTitle(): string
+    {
+        return "Savollar ro'yxati";
+    }
+}

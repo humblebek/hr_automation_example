@@ -29,10 +29,7 @@ class AdminPanelProvider extends PanelProvider
     {
         return $panel
             ->default()
-            ->brandName('Dinay_HR')
-            ->brandLogo(asset('dinayhr.png'))
-            ->favicon(asset('dinayhr.png'))
-            ->brandLogoHeight('2rem')
+            ->brandName('Hr Automation')
             ->id('admin')
             ->path('admin')
             ->login()
